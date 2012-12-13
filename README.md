@@ -1,4 +1,4 @@
 progress.js
 ===========
 
-Track your Progress
+Utility for Backbone.js to track load progress of multiple resources, classes, etc.
